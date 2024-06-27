@@ -1,3 +1,5 @@
+# School project learning the basics of classes
+
 1. Clean:
     * mvn clean
 
